@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "sauna-domain"
+version = "0.1.0"
+
+[[package]]
 name = "sauna-shop"
 version = "0.1.0"
