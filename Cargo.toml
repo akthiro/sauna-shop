@@ -7,3 +7,11 @@ edition = "2021"
 
 [workspace]
 members = ["sauna-domain"]
+
+[workspace.dependencies]
+anyhow = "1.0.86"
+async-trait = "0.1.81"
+chrono = "0.4.38"
+email_address = "0.2.7"
+thiserror = "1.0.63"
+uuid = { version = "1.10.0", features = ["v4"] }
