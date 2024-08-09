@@ -176,6 +176,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "sauna-application"
+version = "0.1.0"
+
+[[package]]
 name = "sauna-domain"
 version = "0.1.0"
 dependencies = [

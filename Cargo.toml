@@ -6,7 +6,7 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = ["sauna-domain"]
+members = ["sauna-application", "sauna-domain"]
 
 [workspace.dependencies]
 anyhow = "1.0.86"
